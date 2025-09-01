@@ -1,0 +1,59 @@
+{
+  "site_title": "YourAgency",
+
+  "hero": {
+    "heading": "Paid Ads That Drive Sales",
+    "subheading": "We help fashion, solar & consultants grow with Meta + Google ads.",
+    "cta": "Book a Free Call",
+    "bg": "assets/images/uploads/placeholder-hero.jpg"
+  },
+
+  "about": {
+    "title": "About Us",
+    "text": "We’re a performance marketing agency focused on profitable growth. \nMeta & Google ads, creative testing, landing pages, and reporting."
+  },
+
+  "services": {
+    "title": "Our Services",
+    "items": [
+      { "name": "Facebook & Instagram Ads", "description": "Full-funnel campaigns that convert cold traffic into customers." },
+      { "name": "Google Ads (Search/PMAX)", "description": "Capture ready-to-buy demand with high intent keywords." },
+      { "name": "Lead Generation", "description": "Get qualified leads & booked calls—done for you." }
+    ]
+  },
+
+  "portfolio": {
+    "title": "Case Studies",
+    "items": [
+      { "name": "Fashion Brand — 3.4x ROAS", "description": "Scaled from ₹0 to ₹3.2L in 15 days.", "image": "assets/images/uploads/case-fashion.jpg" },
+      { "name": "Solar — 40+ Booked Calls", "description": "Local leadgen with CPL down 37%.", "image": "assets/images/uploads/case-solar.jpg" },
+      { "name": "Consultant — 120 Leads", "description": "Form + WhatsApp automation pipeline.", "image": "assets/images/uploads/case-consult.jpg" }
+    ]
+  },
+
+  "testimonials": {
+    "title": "What Clients Say",
+    "items": [
+      { "text": "They handled our ad spend like pros. Best month ever.", "author": "Aditi, Fashion Founder" },
+      { "text": "Booked calls within week one. Transparent reporting.", "author": "Kiran, Solar Consultant" }
+    ]
+  },
+
+  "pricing": {
+    "title": "Pricing",
+    "plans": [
+      { "name": "Starter", "price": "₹15,000 / mo" },
+      { "name": "Growth", "price": "₹35,000 / mo" },
+      { "name": "Scale", "price": "Custom" }
+    ]
+  },
+
+  "contact": {
+    "heading": "Book a Free Strategy Call",
+    "text": "Tell us your goals. We’ll plan a profitable roadmap.",
+    "email": "you@example.com",
+    "phone": "919999999999"
+  },
+
+  "footer_text": "© YourAgency — All rights reserved."
+}
